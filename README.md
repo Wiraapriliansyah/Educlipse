@@ -84,12 +84,12 @@ $ git clone https://github.com/syauqi/learnify.git
 Buat database dengan nama "learnify" di DMBS [phpmyadmin, dll]
 
 # Upload database
-Arahkan folder ke learnify/database/learnify.sql & upload ke dbms [phpmyadmin]
+Arahkan folder ke learnify/database/Educlipse.sql & upload ke dbms [phpmyadmin]
 
 # Buka browser
 http://localhost/Educlipse/welcome
 
-# Enjoy, jika ingin login maka liat panduan akun diatas
+# Masukkan akun yang tersedia di atas untuk login sebagai admin, mahasiswa, atau dosen
 ```
 
 
