@@ -27,22 +27,22 @@
 
 <p></p>
 
-<h2 id="tentang">👨🏻‍🏫 Tentang Educlipse</h2>
+<h2 id="tentang">🧑‍🏫 Tentang Educlipse</h2>
 
 Educlipse dibuat agar para mahasiswa dan dosen dapat terus belajar dan mengajar dimana saja dan kapan saja, tanpa batasan ruang dan waktu.
 
 <p></p>
 
-<h2 id="fitur">✨ Fitur Tersedia</h2>
+<h2 id="fitur">🙌 Fitur Tersedia</h2>
 
 - Autentikasi
   - Login mahasiswa, dosen dan admin
   - Daftar sebagai mahasiswa dan dosen
 - Data Management
-  - Pengguna [akses video pembelajaran dan memberi comment juga reaksi]
+  - Mahasiswa [akses video pembelajaran dan memberi tanggapan]
   - dosen [upload materi berdasarkan kelas dan mata kuliah]
-  - Admin [mengatur data mahasiswa, dosen sekaligus materi]
-- Diskusi dan Reaksi Dengan Integrasi Disqus
+  - Admin [mengatur data mahasiswa, dosen, dan materi]
+- Diskusi dan Reaksi Dengan Integrasi Diskusi
 - Ujian Online [segera hadir]
 
 
@@ -51,7 +51,7 @@ Educlipse dibuat agar para mahasiswa dan dosen dapat terus belajar dan mengajar 
 
 <h2 id="akun">🔑 Daftar Akun Tersedia</h2>
 
-Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pertama kali, namun anda juga bisa membuat akun dengan daftar di halaman pendaftaran
+Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pertama kali, anda juga dapat membuat akun baru melalui halaman registrasi
 
 | Role  | Email                    | Password | URL                                     |
 | ----- | ------------------------ | -------- | --------------------------------------- |
@@ -61,7 +61,7 @@ Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pe
 
 <p></p>
 
-<h2 id="syarat">💾 Prasyarat yang Diperlukan</h2>
+<h2 id="syarat">📑 Prasyarat yang Diperlukan</h2>
 
 Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda menjalankan aplikasi Educlipse jika anda belum menginstall nya maka disarankan untuk menginstall nya terlebih dahulu
 
@@ -72,7 +72,7 @@ Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda
 
 <p></p>
 
-<h2 id="download">🐱‍💻 Panduan Menjalankan & Install Aplikasi</h2>
+<h2 id="download">📖 Panduan Menjalankan & Install Aplikasi</h2>
 
 Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai setidaknya satu web browser yang terinstall di komputer anda.
 
@@ -103,7 +103,7 @@ Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal
 
 <p></p>
 
-<h2 id="lisensi">📝 Lisensi</h2>
+<h2 id="lisensi">🔖 Lisensi</h2>
 
 - Copyright © 2023 Wira Apriliansyah Saputra
 - Educlipse adalah aplikasi web open-source yang berlisensi dibawah lisensi MIT
