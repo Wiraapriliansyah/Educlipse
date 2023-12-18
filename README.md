@@ -53,11 +53,11 @@ Educlipse dibuat agar para mahasiswa dan dosen dapat terus belajar dan mengajar 
 
 Berikut adalah beberapa akun yang dapat digunakan untuk masuk pertama kali, anda juga dapat membuat akun baru melalui halaman registrasi
 
-| Role  | Email                    | Password | URL                                     |
-| ----- | ------------------------ | -------- | --------------------------------------- |
-| Admin | admin@gmail.com          | admin    | http://localhost/learnify/welcome/admin |
-| Siswa | itadoriyuji@jujutsu.com  | 123456   | http://localhost/learnify/welcome       |
-| Guru  | ryomensukuna@jujutsu.com | 123456   | http://localhost/learnify/welcome/guru  |
+| Role  | Email                    | Password | URL                                      |
+| ----- | ------------------------ | -------- | ---------------------------------------- |
+| Admin | admin@gmail.com          | admin    | http://localhost/Educlipse/welcome/admin |
+| Siswa | itadoriyuji@jujutsu.com  | 123456   | http://localhost/Educlipse/welcome       |
+| Guru  | ryomensukuna@jujutsu.com | 123456   | http://localhost/Educlipse/welcome/guru  |
 
 <p></p>
 
@@ -87,7 +87,7 @@ Buat database dengan nama "learnify" di DMBS [phpmyadmin, dll]
 Arahkan folder ke learnify/database/learnify.sql & upload ke dbms [phpmyadmin]
 
 # Buka browser
-http://localhost/learnify/welcome
+http://localhost/Educlipse/welcome
 
 # Enjoy, jika ingin login maka liat panduan akun diatas
 ```
