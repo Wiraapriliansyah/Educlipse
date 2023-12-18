@@ -1,6 +1,6 @@
 <h1 align="center">Selamat datang di repository Educlipse! 👋🏻</h1>
 
-![learnify-preview](https://user-images.githubusercontent.com/46257169/173141000-0a2346bf-adbc-41cb-9699-e7ffff1cba8e.png)
+![learnify-preview](https://i.postimg.cc/pLY0tSfM/Whats-App-Image-2023-12-18-at-14-09-07-bad9be15.jpg)
 
 <p></p>
 
