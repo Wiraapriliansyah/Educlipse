@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di repository Educlipse! 👋🏻</h1>
+<h1 align="center">Selamat datang di repository Educlipse!</h1>
 
 ![learnify-preview](https://i.postimg.cc/pLY0tSfM/Whats-App-Image-2023-12-18-at-14-09-07-bad9be15.jpg)
 
@@ -38,7 +38,7 @@ Educlipse dibuat agar para mahasiswa dan dosen dapat terus belajar dan mengajar 
 - Autentikasi
   - Login mahasiswa, dosen dan admin
   - Daftar sebagai mahasiswa dan dosen
-- Data Management
+- Manajemen Data
   - Mahasiswa [akses video pembelajaran dan memberi tanggapan]
   - dosen [upload materi berdasarkan kelas dan mata kuliah]
   - Admin [mengatur data mahasiswa, dosen, dan materi]
@@ -49,9 +49,9 @@ Educlipse dibuat agar para mahasiswa dan dosen dapat terus belajar dan mengajar 
 
 <p></p>
 
-<h2 id="akun">🔑 Daftar Akun Tersedia</h2>
+<h2 id="akun">🔑 Daftar Akun Yang Tersedia</h2>
 
-Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pertama kali, anda juga dapat membuat akun baru melalui halaman registrasi
+Berikut adalah beberapa akun yang dapat digunakan untuk masuk pertama kali, anda juga dapat membuat akun baru melalui halaman registrasi
 
 | Role  | Email                    | Password | URL                                     |
 | ----- | ------------------------ | -------- | --------------------------------------- |
@@ -63,7 +63,7 @@ Berikut adalah daftar akun untuk keperluan testing saat anda mencoba aplikasi pe
 
 <h2 id="syarat">📑 Prasyarat yang Diperlukan</h2>
 
-Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda menjalankan aplikasi Educlipse jika anda belum menginstall nya maka disarankan untuk menginstall nya terlebih dahulu
+Berikut adalah daftar layanan dan aplikasi yang diperlukan untuk menjalankan aplikasi Educlipse
 
 - PHP 7, 8 & Web Server [XAMPP, LAMPP, MAMP]
 - Web Browser [Chrome, Firefox, Safari & Opera]
@@ -74,7 +74,7 @@ Berikut adalah daftar layanan dan aplikasi yang wajib dan diperlukan selama anda
 
 <h2 id="download">📖 Panduan Menjalankan & Install Aplikasi</h2>
 
-Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai setidaknya satu web browser yang terinstall di komputer anda.
+Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai setidaknya satu browser yang terinstall di komputer anda.
 
 ```bash
 # Clone repository ini atau download di
@@ -110,4 +110,4 @@ Berhubung Project ini saya selesaikan sendiri, namun banyak fitur dan banyak hal
 
 ---
 
-**<p align="center">Made with ❤️ by Wira Apriliansyah Saputra</p>**
+**<p align="center">Made by Wira Apriliansyah Saputra</p>**
